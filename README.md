@@ -165,7 +165,7 @@ plt.show()
 
 节点度分布的图像：
 
-![](C:\Users\小翔\Pictures\Screenshots\屏幕截图 2024-06-25 170927.png)
+![image](data.png)
 
 
 

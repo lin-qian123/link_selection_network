@@ -1,6 +1,6 @@
 # 链接选择模型生成无标度网络
 
-2021级萃英班  张羽翔 （整理自barabasi *Network Science*）
+（整理自barabasi *Network Science*）
 
 
 
@@ -14,11 +14,11 @@
 
 1. 链接选择模型
 
-![](C:\Users\小翔\Pictures\Screenshots\屏幕截图 2024-06-25 021351.png)
+![image](link_selection.png)
 
 2. 复制模型
 
-![](C:\Users\小翔\Pictures\Screenshots\屏幕截图 2024-06-25 021454.png)
+![image](copy.png)
 
 - **优化模型**
 
@@ -147,7 +147,7 @@ plt.show()
 
 结果如下：
 
-![](C:\Users\小翔\Desktop\大三下\复杂系统\复杂网络\Figure_1w.png)
+![image](Figure_1w.png)
 
 可见，度分布在指数坐标下呈线性关系，说明度分布满足幂律分布。拟合直线斜率大概为-2.5左右。
 
@@ -161,7 +161,7 @@ plt.show()
 
 1000节点的网络图（度大于10的节点标为红色，小于10的为绿色）：
 
-![](C:\Users\小翔\Desktop\大三下\复杂系统\复杂网络\network.png)
+![image](network.png)
 
 节点度分布的图像：
 
